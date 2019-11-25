@@ -15,6 +15,8 @@ public class PlayerControl : MonoBehaviour {
         tr = GetComponent<Rigidbody>();
         isGround = true;
         jumpTimes = 2;
+        transform.localScale = new Vector3(2, 2, 2);
+        //just kidding
 	}
 	
 	// Update is called once per frame
