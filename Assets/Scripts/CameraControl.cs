@@ -27,7 +27,7 @@ public class CameraControl : MonoBehaviour {
         }
         if (mode == 3)
         {
-            transform.localPosition = new Vector3(-0.06f, 1.69f, -3.17f);
+            transform.localPosition = new Vector3(-0.06f, 1.70f, -3.17f);
         }
         if(mode == 1)
         {
