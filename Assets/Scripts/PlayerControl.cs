@@ -17,6 +17,7 @@ public class PlayerControl : MonoBehaviour {
         jumpTimes = 2;
         transform.localScale = new Vector3(2, 2, 2);
         //just kidding
+        transform.position = new Vector3(5, 5, 5,);
 	}
 	
 	// Update is called once per frame
